@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaRosalinaAPI", "LaRosalinaAPI\LaRosalinaAPI.csproj", "{946E0A3D-70E2-4065-8AF7-878835FA68E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{946E0A3D-70E2-4065-8AF7-878835FA68E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946E0A3D-70E2-4065-8AF7-878835FA68E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946E0A3D-70E2-4065-8AF7-878835FA68E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946E0A3D-70E2-4065-8AF7-878835FA68E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B12AFD4-83DC-4524-977B-803013D6E982}
+	EndGlobalSection
+EndGlobal

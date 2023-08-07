@@ -1,0 +1,50 @@
+# Binarios, ejecutables y archivos generados
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.user
+*.vscode/
+.vs/
+
+# Archivos de compilación de Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Carpeta de dependencias NuGet
+packages/
+
+# Carpeta de registro de NuGet
+*.nupkg
+
+# Carpeta de caché de .NET Core
+*.dotnet/
+dotnet-*
+NuGet.Config
+
+# Archivos de respaldo de Visual Studio
+Backup*/
+*.bak
+
+# Archivos de caché y temporales
+*.log
+*.cache
+[Tt]emp/
+[Oo]bj/
+[Ii]ntermediate/
+
+# Archivos de configuración de Visual Studio
+.vscode/
+.vsconfig
+
+# Archivos de configuración de JetBrains Rider
+.idea/
+
+# Archivos de configuración de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos de Visual Studio Code
+.vscode/
