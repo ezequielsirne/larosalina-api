@@ -1,4 +1,4 @@
-<h1>The Rosalina API</h1>
+<h1>La Rosalina API</h1>
 This project is a RESTful API developed using ASP.NET Core 7, designed to facilitate various functionalities for hospitality management. It employs a SQL Server database through Entity Framework, following the Data First principle. Notably, this API embraces essential software design patterns such as the repository pattern and dependency injection.
 
 <h2>Documentation on Swagger</h2>
